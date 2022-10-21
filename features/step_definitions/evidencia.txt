@@ -1,0 +1,1 @@
+{"key":"ALIMENT|MERCADO","name":"MERCADO","label":"Alimentação - Mercado"}
